@@ -1,0 +1,34 @@
+_repo: Stained-Glass-of-the-Middle-Ages-in-England-and-France_41370
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Saint, Lawrence B. (Lawrence Bradford)
+    alias: Saint, Lawrence Bradford
+    birthdate: 1885
+    gutenberg_agent_id: '41144'
+    url: http://www.gutenberg.org/2009/agents/41144
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnold, Hugh
+    gutenberg_agent_id: '41143'
+    url: http://www.gutenberg.org/2009/agents/41143
+description: ''
+gutenberg_issued: '2012-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41370'
+  lccn: '14030359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Glass painting and staining -- France'
+- !lcsh 'Art, Medieval'
+- !lcsh 'Glass painting and staining -- England'
+title: Stained Glass of the Middle Ages in England and France
+url: http://www.gutenberg.org/ebooks/41370
