@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41143'
     url: http://www.gutenberg.org/2009/agents/41143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41370#Stained-Glass-of-the-Middle-Ages-in-England-and-France
 gutenberg_issued: '2012-11-16'
 gutenberg_type: Text
 identifiers:
